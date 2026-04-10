@@ -3,8 +3,8 @@
 <h2>👨‍💻 Cybersecurity & Networking Projects:</h2>
 
 - <b>General Overview</b>
-  - [Cybersecurity Threat Landscape Report](https://drive.google.com/file/d/1SMhIM21arc9aeXfnJ7Kl-eKtkMriC5YA/view?usp=drive_link)
-  - [Cybersecurity Strategy, Law, & Policies Report](https://drive.google.com/file/d/1HWg1IP0pMKErlI4TCULxzBXiXPjSdUhS/view?usp=drive_link)
+  - [Cybersecurity Threat Landscape Report](https://drive.google.com/file/d/1Lie8QLvHbuprHqZhsPi285ylBFA2-iHr/view?usp=drive_link)
+  - [Cybersecurity Strategy, Law, & Policies Report](https://drive.google.com/file/d/1rZpEtbvR8mtuBtmcFCxJljkn_SO5PxRm/view?usp=drive_link)
 - <b>Penetration Testing</b>
   - [Vulnerability Memorandum](https://drive.google.com/file/d/1voWCDP5afRk3YZINQY95VFsqnk22-TnM/view?usp=drive_link)
   - [Utilizing Scanning Tools](https://drive.google.com/file/d/18087_taNfBJT63V7zMPA39xGKoPTltwa/view?usp=drive_link)
