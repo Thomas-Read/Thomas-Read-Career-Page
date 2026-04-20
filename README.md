@@ -1,4 +1,4 @@
-<h1>Hello, I'm Thomas! <br/><a href="https://github.com/Thomas-Read/">Data Systems Technician</a>, <a href="https://www.linkedin.com/in/thomas-read04/">IT Professional</a>
+<h1>Hello, I'm Thomas! <br/><a href="https://github.com/Thomas-Read/">Information Systems Technician</a>, <a href="https://www.linkedin.com/in/thomas-read04/">IT Professional</a>
 
 <h2>👨‍💻 Cybersecurity & Networking Projects:</h2>
 
